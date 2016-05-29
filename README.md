@@ -4,7 +4,7 @@ Interactive traffic lights with pygame-zero and gpiozero
 
 ![Traffic Lights](trafficlights.png)
 
-Click a colour to light an LED.
+Click a colour to light an LED
 
 ## Reference
 
